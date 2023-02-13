@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lære Vikaren A7S/1.0.0": {
+        "runtime": {
+          "Lære Vikaren A7S.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lære Vikaren A7S/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

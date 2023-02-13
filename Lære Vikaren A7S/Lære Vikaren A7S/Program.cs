@@ -12,6 +12,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hva så! eller hvad?");
+            Console.ReadLine();
         }
     }
 }

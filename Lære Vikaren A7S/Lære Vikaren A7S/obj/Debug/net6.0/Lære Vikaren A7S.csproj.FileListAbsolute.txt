@@ -1,0 +1,15 @@
+C:\Users\45217\Desktop\Lærevikaren AS\Lære Vikaren A7S\Lære Vikaren A7S\bin\Debug\net6.0\Lære Vikaren A7S.exe
+C:\Users\45217\Desktop\Lærevikaren AS\Lære Vikaren A7S\Lære Vikaren A7S\bin\Debug\net6.0\Lære Vikaren A7S.deps.json
+C:\Users\45217\Desktop\Lærevikaren AS\Lære Vikaren A7S\Lære Vikaren A7S\bin\Debug\net6.0\Lære Vikaren A7S.runtimeconfig.json
+C:\Users\45217\Desktop\Lærevikaren AS\Lære Vikaren A7S\Lære Vikaren A7S\bin\Debug\net6.0\Lære Vikaren A7S.dll
+C:\Users\45217\Desktop\Lærevikaren AS\Lære Vikaren A7S\Lære Vikaren A7S\bin\Debug\net6.0\Lære Vikaren A7S.pdb
+C:\Users\45217\Desktop\Lærevikaren AS\Lære Vikaren A7S\Lære Vikaren A7S\obj\Debug\net6.0\Lære Vikaren A7S.csproj.AssemblyReference.cache
+C:\Users\45217\Desktop\Lærevikaren AS\Lære Vikaren A7S\Lære Vikaren A7S\obj\Debug\net6.0\Lære Vikaren A7S.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45217\Desktop\Lærevikaren AS\Lære Vikaren A7S\Lære Vikaren A7S\obj\Debug\net6.0\Lære Vikaren A7S.AssemblyInfoInputs.cache
+C:\Users\45217\Desktop\Lærevikaren AS\Lære Vikaren A7S\Lære Vikaren A7S\obj\Debug\net6.0\Lære Vikaren A7S.AssemblyInfo.cs
+C:\Users\45217\Desktop\Lærevikaren AS\Lære Vikaren A7S\Lære Vikaren A7S\obj\Debug\net6.0\Lære Vikaren A7S.csproj.CoreCompileInputs.cache
+C:\Users\45217\Desktop\Lærevikaren AS\Lære Vikaren A7S\Lære Vikaren A7S\obj\Debug\net6.0\Lære Vikaren A7S.dll
+C:\Users\45217\Desktop\Lærevikaren AS\Lære Vikaren A7S\Lære Vikaren A7S\obj\Debug\net6.0\refint\Lære Vikaren A7S.dll
+C:\Users\45217\Desktop\Lærevikaren AS\Lære Vikaren A7S\Lære Vikaren A7S\obj\Debug\net6.0\Lære Vikaren A7S.pdb
+C:\Users\45217\Desktop\Lærevikaren AS\Lære Vikaren A7S\Lære Vikaren A7S\obj\Debug\net6.0\Lære Vikaren A7S.genruntimeconfig.cache
+C:\Users\45217\Desktop\Lærevikaren AS\Lære Vikaren A7S\Lære Vikaren A7S\obj\Debug\net6.0\ref\Lære Vikaren A7S.dll
