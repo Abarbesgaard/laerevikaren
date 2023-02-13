@@ -10,61 +10,67 @@ namespace Lære_Vikaren_A7S
          */
         static void Main(string[] args)
         {
-            Console.WriteLine("hvilken skole har brug for vikarer: ");
+            
+            
+            Start: 
+            Console.WriteLine("Hvilken skole har brug for vikarer: ");
 
 
             string input = Console.ReadLine();
             string answer = input.ToUpper();
 
-            switch(answer)
-            {
-                case "BØGELUND":
-                    Console.WriteLine("dette er en skole");
+            
+                switch (answer)
+                {
+                    case "BØGELUND":
+                        Console.WriteLine("Dette er en skole");
+
+                        break;
+                    case "EGELUND":
+                        Console.WriteLine("informationen om denne skole: ");
+                        Egelund nyEge = new Egelund();
+                        Console.WriteLine(nyEge.skoleNavn);
+                        Console.WriteLine("Addresse: " + nyEge.skoleAddresseNavn + " " + nyEge.skoleAddresseNR);
+                    Console.WriteLine("Skolens id: " + nyEge.skoleID);
+                    Console.WriteLine("skolens Email: " + nyEge.skoleEmail);
                     break;
-                default:
-                    Console.WriteLine("Error 365");
-                    break;
-            }
+                    default:
+                        Console.WriteLine("Fejl.");
+                        goto Start;
+                }
+
 
             
-
-
 
 
             //afslut koden ved at trykke på 'enter'
             Console.ReadLine();
         }
-    }
-
-    public class Student
-    {
-        public string studentName;
-        
-    }
-    public class Emre : Student 
-    { 
-        
-        StudentID newStudentID = new StudentID();
-        public int studentID() 
+        public class Skole
         {
-            return  newStudentID.RandomNR();
+            public string skoleNavn;
+            public string skoleAddresseNavn;
+            public int skoleAddresseNR;
+            public int skoleTLF;
+            public string skoleEmail;
+            public string skoleID;
+
+          
         }
 
-
-    }
-    public class Alma : Student { }
-    public class Justin : Student { }
-    public class laurits : Student { }
-    public class Frederik : Student { }
-    public class Andreas : Student { }
-
-    public class StudentID 
-    { 
-     Random rd = new();
-            public int RandomNR()
+        public class Egelund : Skole
+        {
+            public Egelund()
             {
-            int newRD = rd.Next(1, 1000000);
-            return newRD;
+                skoleNavn = "Egelund";
+                skoleAddresseNavn = "Halløjstedvej";
+                skoleAddresseNR = 10;
+                skoleTLF = 45365783;
+                skoleEmail = "Drgt75@egelund.dk";
+                skoleID = "egelund1";
+
             }
+        }
     }
+
 }
