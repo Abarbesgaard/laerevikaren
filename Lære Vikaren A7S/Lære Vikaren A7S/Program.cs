@@ -3,7 +3,8 @@
     internal class Program
     {
         /* Comment: Andreas
-         * Jeg tænker at dette vil være hovedfilen for Lærervikaren A/S
+         * Jeg tænker at dette vil være hovedfilen for Lærervikaren A/S.
+         * Ud over dette kan vi vælge om klasserne skal være i seperate  filer eller neden under Main()
          * 
          * 
          * 
